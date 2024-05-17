@@ -1,0 +1,17 @@
+.container-bg{
+    background-color: #333333;
+}
+.card-width-img{
+    width: 19rem;
+}
+.final-price{
+    color: orange;
+}
+.sale{
+    background-color: yellow;
+    border-radius: 2px;
+}
+.btn-send-message{
+    color: white;
+    font-weight: bold;
+}
