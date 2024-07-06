@@ -1,0 +1,9 @@
+.menu {
+    border-radius: 50%;
+    margin: auto;
+    display: block;
+  }
+  
+  .sign{
+    color: red;
+  }
