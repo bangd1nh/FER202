@@ -1,0 +1,89 @@
+{
+  "hotels": [
+    {
+      "id": 1,
+      "name": "Grand Plaza Hotel",
+      "address": "123 Main St, Cityville",
+      "phone": "+1234567890",
+      "email": "info@grandplazahotel.com",
+      "website": "www.grandplazahotel.com",
+      "rating": 4.5,
+      "description": "Grand Plaza Hotel is a luxurious hotel located in the heart of Cityville, offering world-class amenities and services.",
+      "rooms": [
+        {
+          "roomId": 101,
+          "type": "Single",
+          "pricePerNight": 100,
+          "status": "available",
+          "description": "A cozy single room with all necessary amenities."
+        },
+        {
+          "roomId": 102,
+          "type": "Double",
+          "pricePerNight": 150,
+          "status": "available",
+          "description": "A comfortable double room perfect for couples."
+        },
+        {
+          "roomId": 103,
+          "type": "Suite",
+          "pricePerNight": 250,
+          "status": "booked",
+          "description": "A luxurious suite with a separate living area and premium amenities."
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "adsawdawd",
+      "address": "123 Main St, Cityville",
+      "phone": "+1234567890",
+      "email": "info@grandplazahotel.com",
+      "website": "www.grandplazahotel.com",
+      "rating": 4.5,
+      "description": "Grand Plaza Hotel is a luxurious hotel located in the heart of Cityville, offering world-class amenities and services.",
+      "rooms": [
+        {
+          "roomId": "101",
+          "type": "Single",
+          "pricePerNight": "100",
+          "status": "available",
+          "description": "A cozy single room with all necessary amenities."
+        },
+        {
+          "roomId": "102",
+          "type": "Double",
+          "pricePerNight": "150",
+          "status": "available",
+          "description": "A comfortable double room perfect for couples."
+        },
+        {
+          "roomId": "103",
+          "type": "Suite",
+          "pricePerNight": "250",
+          "status": "booked",
+          "description": "A luxurious suite with a separate living area and premium amenities."
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "rating": null,
+      "description": "",
+      "rooms": [
+        {
+          "roomId": "",
+          "type": "",
+          "pricePerNight": "",
+          "status": "",
+          "description": ""
+        }
+      ]
+    }
+  ]
+}
